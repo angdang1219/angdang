@@ -4,7 +4,7 @@ public class Caculate{
 		int n1 = 3;
 		int n2 = 5;
 		
-		double res = (result)n1/n2;
+		double res = (double)n1/n2;
 		
 		System.out.println("hii \n result = " + n1);
 	}
